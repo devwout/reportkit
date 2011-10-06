@@ -1,0 +1,20 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activerecord (2.3.5)
+      activesupport (= 2.3.5)
+    activesupport (2.3.5)
+    arel-compat (0.4.0)
+      activerecord (~> 2.3.4)
+      activesupport (~> 2.3.4)
+    mysql (2.8.1)
+    rspec (1.2.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activerecord (= 2.3.5)
+  arel-compat (= 0.4.0)
+  mysql (= 2.8.1)
+  rspec (~> 1.2.9)
