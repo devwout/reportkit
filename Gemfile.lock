@@ -1,8 +1,10 @@
 GIT
-  remote: https://github.com/moretea/filterkit
-  revision: cd058f2589df6f88a0d1b088ec27d244ac0114f5
+  remote: https://github.com/devwout/filterkit
+  revision: 8f7c97791a5b9651695df1f25482283c61aac417
   specs:
     filterkit (0.0.1)
+      activerecord (~> 2.3.5)
+      arel-compat (~> 0.4.0)
 
 GEM
   remote: http://rubygems.org/
